@@ -30,3 +30,7 @@ GAevents.insert = function(obj, bounce) {
   }
 
 }
+
+// for more information about Google Analytics event tracking:
+// old (ga.js): https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide
+// new (analytics.js): https://developers.google.com/analytics/devguides/collection/analyticsjs/events
