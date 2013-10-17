@@ -13,7 +13,7 @@ This package makes Google Analytics event tracking more like using Meteor's Coll
   Note: This is not server code. You should only be working with GAevents within your client files.
 
 ```javascript
-events.insert({
+GAevents.insert({
   category: "User",
   action: "Purchased",
   label: "SKU:1177291828",
